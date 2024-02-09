@@ -1,4 +1,4 @@
-For practice Demonstration purpose only.
+For practice demonstration purpose only.
 1. Creating Tables - supplier, customer, category, product, supplier-pricing, order, rating
 2. Inserting data into tables
 3. Display the total number of customers based on gender who have placed individual orders of worth at least Rs.3000.
